@@ -1,0 +1,14 @@
+# Internal working notes, never publish
+HANDOFF_*.md
+*_draft*.pptx
+*_draft*.docx
+
+# Office lock and temp files
+~$*
+*.tmp
+*.bak
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
