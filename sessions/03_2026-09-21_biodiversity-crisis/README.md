@@ -6,17 +6,21 @@ Lecturer: John Shorter (INM)
 
 ## About this session
 
-The biological and physical basis of the crisis, and how we measure it. Biodiversity at the genetic,
-species, and ecosystem levels. What the Living Planet Index does and does not say. Extinction rates
-against the five mass extinctions. The five direct drivers identified by IPBES, with the planetary
-boundaries framework as context. The session assumes no natural science background.
+Humans are removing the variety of life faster than at any point in our species' history. This
+session covers what biodiversity is (genes, species, ecosystems), the evidence for its decline, the
+five direct drivers, and the planetary boundaries framework that puts biodiversity loss alongside
+climate change as a transgressed limit of the Earth system. We will also ask what these measurements
+can and cannot tell us about what to do.
 
-The second half is small-group case analysis: diagnose the drivers, evaluate the evidence, and
-locate the point where the science stops and the politics starts.
+The second half is a group exercise analyzing three concrete cases, from clonal bananas to Danish
+farmland and returning wolves, through both scientific and political lenses.
+
+No natural science background is assumed.
 
 ## Materials
 
-Slides go up after the session.
+- [Readings](readings.md), two of which you can download here directly
+- Slides go up after the session
 
 ## Practicals
 
